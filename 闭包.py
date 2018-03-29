@@ -14,4 +14,11 @@ def hello_conf(prefix):
     return hello
 
 a=hello_conf('Good Moring!')
+print(a.__name__)
+print(id(a))
 a('milo')
+a('zouqixian')
+
+b=hello_conf('Good Afternoon!')
+print(b.__name__)
+print(id(b))
