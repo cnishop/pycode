@@ -11,8 +11,13 @@ class MyList:
             self.__mylist[i]=self.__mylist[i] + x
         print(self.__mylist)
 
+    def show(self):
+        print(self.__mylist)
 
 l=MyList(1,2,3,4,5)
+
 print(l)
+l.show()
+
 l+10
         
