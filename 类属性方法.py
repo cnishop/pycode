@@ -17,13 +17,27 @@ class Human:
 
     #def __str__(self):
         print("string")
+        
+    #@classmethod
+    @property
     def say(self):
-        print("my name is %s i have %d " % (self.name,self.__monye))
+        print("my name is %s i have %d " % (self.name,self.__money))
+        return self.name
 
     def __lie(self):
         print("i have 5000")
 
+    @staticmethod #python2 的用法
+    def bye():
+        print("game over!")
+
 zhangsan =Human('guo',30)
-print(zhangsan,__doc__)
-print(Human.__doc__)
-print(zhangsan.var2)
+#print(zhangsan,__doc__)
+#print(Human.__doc__)
+#print(zhangsan.var2)
+zhangsan.bye()
+print(zhangsan.say)
+
+#Human.bye()  #可直接通过类名访问
+print(Human.say)
+
