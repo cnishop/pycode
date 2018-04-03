@@ -1,0 +1,19 @@
+missing module named resource - imported by posix, D:\python\pycode\gui\chat-02.py
+missing module named posix - imported by os, D:\python\pycode\gui\chat-02.py
+missing module named _posixsubprocess - imported by subprocess, D:\python\pycode\gui\chat-02.py
+missing module named 'org.python' - imported by pickle, D:\python\pycode\gui\chat-02.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, D:\python\pycode\gui\chat-02.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\python\pycode\gui\chat-02.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\python\pycode\gui\chat-02.py
+missing module named _winreg - imported by platform, D:\python\pycode\gui\chat-02.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\python\pycode\gui\chat-02.py
+missing module named 'java.lang' - imported by platform, D:\python\pycode\gui\chat-02.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\python\pycode\gui\chat-02.py
+missing module named termios - imported by tty, D:\python\pycode\gui\chat-02.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\python\pycode\gui\chat-02.py
+missing module named org - imported by copy, D:\python\pycode\gui\chat-02.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\python\pycode\gui\chat-02.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, D:\python\pycode\gui\chat-02.py
+missing module named Carbon - imported by wx.lib.colourutils
+missing module named StringIO - imported by six
