@@ -14,3 +14,10 @@ for item in ac.items():
 
 for name,contents in ac.items():
     print('name:',name,'contents:',contents)
+
+
+money = 500000
+rate=0.05
+for i in range(10):
+    money = money + money* rate
+print("money: " ,money)
