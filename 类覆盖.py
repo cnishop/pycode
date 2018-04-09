@@ -9,3 +9,6 @@ class MDPerson(Person):
 class JDPerson(Person):
     def __init__(self,name):
         self.name= name
+
+ss=JDPerson('aaa')
+print(ss.name)
