@@ -1,18 +1,13 @@
 import PyPDF2
-with open('PythonABC.pdf','rb') as pdfFile:
-    pdfReader=PyPDF2.PdfFileReader(pdfFile)
-    minutesFirstPage=pdfReader.getPage(0)
 
-    with open('sy.pdf','rb') as markFile:
-        pdfWaterMarkReader = PyPDF2.PdfFileReader(markFile)
-        minutesFirstPage.mergePage(pdfWaterMarkReader.getPage(0))
+with open('11.pdf','rb') as pdfFile:
+    pdfReader = PyPDF2.PdfFileReader(pdfFile)
+    pdfWiter = PyPDF2.PdfFileWriter()
 
-        pdfWiter = PyPDF2.PdfFileWriter()
-        pdfWiter.addPage(minutesFirstPage)
+    for pageNum in range(pdfReader.numPages):
+        pdfWiter.addPage(pdfReader.getPage(pageNum))
 
-        for pageNum in range(1,pdfReader.numPages):
-            pageObj = pdfReader.getPage(pageNum)
-            pdfWiter.addPage(pageObj)
+    pdfWiter.encrypt('python')
 
-        with open('waterMark.pdf','wb') as resultPdfFile:
-            pdfWiter.write(resultPdfFile)
+    with open('e11.pdf','wb') as resultPdf:
+        pdfWiter.write(resultPdf)
