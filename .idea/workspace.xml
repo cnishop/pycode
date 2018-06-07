@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="62062497-fe76-43db-90a7-280eb7d3a925" name="Default" comment="" />
+=======
+    <list default="true" id="c8930fd8-f9ef-40a2-9634-05ef0d4357c0" name="Default" comment="" />
+>>>>>>> 37fba44a2f5189850b9e7bce058a56c41a14365e
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,6 +13,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="exception.py" pinned="false" current-in-tab="false">
@@ -47,6 +52,9 @@
       </file>
     </leaf>
   </component>
+=======
+<<<<<<< HEAD
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -58,10 +66,54 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
+=======
+    <option name="x" value="20" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+=======
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="string.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/string.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="394" />
+    <option name="y" value="200" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
+>>>>>>> 37fba44a2f5189850b9e7bce058a56c41a14365e
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -76,11 +128,22 @@
               <item name="pycode" type="b2602c69:ProjectViewProjectNode" />
               <item name="pycode" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="pycode" type="b2602c69:ProjectViewProjectNode" />
               <item name="pycode" type="462c0819:PsiDirectoryNode" />
               <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="pycode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycode" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> 37fba44a2f5189850b9e7bce058a56c41a14365e
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
           </expand>
           <select />
         </subPane>
@@ -89,7 +152,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
+<<<<<<< HEAD
+=======
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+>>>>>>> 37fba44a2f5189850b9e7bce058a56c41a14365e
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,8 +173,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.2forYourReference1">
     <configuration name="1lookwhatcando" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+=======
+  <component name="RunManager">
+    <configuration name="string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
       <module name="pycode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,16 +189,25 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc/1lookwhatcando.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/string.py" />
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="2forYourReference1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,45 +277,102 @@
       </list>
     </recent_temporary>
   </component>
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.string" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> 37fba44a2f5189850b9e7bce058a56c41a14365e
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="62062497-fe76-43db-90a7-280eb7d3a925" name="Default" comment="" />
       <created>1523178257632</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523178257632</updated>
+=======
+      <changelist id="c8930fd8-f9ef-40a2-9634-05ef0d4357c0" name="Default" comment="" />
+      <created>1523190803261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523190803261</updated>
+>>>>>>> 37fba44a2f5189850b9e7bce058a56c41a14365e
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
+=======
+<<<<<<< HEAD
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32946634" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32946634" />
+=======
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+=======
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2472178" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007949" side_tool="true" visible="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" weight="0.31670535" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Python Console" sideWeight="0.49920508" visible="true" weight="0.32946634" />
+>>>>>>> 37fba44a2f5189850b9e7bce058a56c41a14365e
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+<<<<<<< HEAD
+=======
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+<<<<<<< HEAD
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Find" order="1" />
+=======
+=======
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+>>>>>>> 37fba44a2f5189850b9e7bce058a56c41a14365e
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/exception.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -261,8 +404,21 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+=======
+<<<<<<< HEAD
+=======
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
         </state>
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
+=======
+>>>>>>> 37fba44a2f5189850b9e7bce058a56c41a14365e
+>>>>>>> 31503b1ae0961a2073740f28c58ee76c8603d26b
 </project>
