@@ -6,3 +6,7 @@ for i in range(1,1000):
 print(nums) 
 x=sum(nums)
 print(x)
+
+a=4+3j
+b=5+2j
+print(a+b)
