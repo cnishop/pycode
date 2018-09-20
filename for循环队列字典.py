@@ -19,5 +19,7 @@ for name,contents in ac.items():
 money = 500000
 rate=0.05
 for i in range(10):
+    print(i)
     money = money + money* rate
 print("money: " ,money)
+
