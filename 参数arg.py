@@ -16,3 +16,5 @@ def print_more(r1,r2,*args):
 def print_kwargs(**kwargs):
     print('keyword arguments:', kwargs)
 
+buggy(123,[1,2])
+
