@@ -4,7 +4,8 @@ def outer(x):
     return inner
 
 f=outer(5)
-print(f(20))
+print(f(6))
+#print(f(20))
 
 print("---------")
 
@@ -22,3 +23,29 @@ a('zouqixian')
 b=hello_conf('Good Afternoon!')
 print(b.__name__)
 print(id(b))
+
+print('---------')
+
+def lazy_sum(*args):
+    def sum():
+        ax = 0
+        for n in args:
+            ax = ax + n
+        return ax
+    return sum
+
+f1 = lazy_sum(1, 3, 5, 7, 9)
+f2 = lazy_sum(1, 3, 5, 7, 9)
+print(f1 == f2)
+
+
+def count():
+    fs = []
+    for i in range(1, 4):
+        def f():
+            return i*i
+        fs.append(f)
+        print(fs)
+    return fs
+
+ff= count()
