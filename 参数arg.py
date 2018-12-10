@@ -23,20 +23,33 @@ print('默认参数:', power(4))
 
 #可变参数
 def printse_series(d,*dtup):
+    '这是可变参数....'
+    global b1
+    b1= 111
     print('必须参数:',d)
     if len(dtup)!=0:
         print('元祖参数:',end=' ')
+        n = 0
         for i in dtup:
+            print(n,n)
+            n += 1
             print(i,end=' ')
+
+
+l=['b','c']
+printse_series('a',*l)
+print(printse_series.__doc__)
+#help(printse_series)
+print(b1)
 
 num=[2,3,4]
 def calc(*numbers):
+    print(type(numbers))
     sum=0
     for n in numbers:
         sum=sum+n*n
     return sum
 print('可变参数：',calc(*num))
-
 
 #关键字参数
 def person(name,age,**kw):
