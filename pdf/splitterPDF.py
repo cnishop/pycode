@@ -13,5 +13,5 @@ def pdf_splitter(path):
             pdf_writer.write(out)
             print('Created: {}'.format(output_filename))
 if __name__ == '__main__':
-    path = '挂面固定资产报废申请.pdf'
+    path = 'bran.pdf'
     pdf_splitter(path)
