@@ -6,3 +6,5 @@ for cell in cells:
 
 for row,col in cells:
     print(row,col)
+
+
