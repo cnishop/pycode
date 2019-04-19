@@ -2,6 +2,7 @@ names = ['Michael', 'Bob', 'Tracy']
 names.append('aaaa')
 print(names)
 
+
 classmates = ('Michael', 'Bob', 'Tracy')
 print(classmates)
 
@@ -11,6 +12,10 @@ if 95 in d :
     print("aa")
 if ('Bob',75) in d:
     print("bob")
+
+i=d.items()
+print(i)
+
 
 s = set([1, 1, 2, 2, 3, 3])
 s.add(4)

@@ -6,6 +6,9 @@ ac={'room':'a','wapon':'b','person':'col'}
 for key in ac:   #or ac.keys
     print(key)
 
+for k in ac.keys():
+    print('keys:', k,ac[k])
+
 for value  in ac.values():
     print(value)
 
