@@ -20,3 +20,6 @@ c =A()
 A.kids()
 A.kidss()
 A.statichaha()
+
+a.exclaim()
+a.kids()
